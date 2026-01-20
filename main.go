@@ -65,4 +65,3 @@ func main() {
 	}
 
 	log.Info().Msg("Server exiting")
-}
