@@ -64,4 +64,4 @@ func main() {
 		log.Fatal().Err(err).Msg("Server forced to shutdown")
 	}
 
-	log.Info().Msg("Server exiting")
+	log.Info().Msg("Server exiting")}
